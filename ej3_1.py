@@ -1,0 +1,1 @@
+print("El promedio de los tres es: ", sum([float(input("Primer numero: ")), float(input("Segundo numero: ")),float(input("Tercer numero: "))])/3)
