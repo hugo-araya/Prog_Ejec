@@ -32,6 +32,7 @@ def proceso(datos):
             septiembre = septiembre + float(dato[1])
     resultados.append(ultimo)
     resultados.append(septiembre)
+    
     year = 2020
     while year < 2023:
         mes = 1
