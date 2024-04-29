@@ -1,4 +1,4 @@
 import qrcode
-img = qrcode.make('https://youtu.be/yPYZpwSpKmA?si=MfoMIkzWbj4C2Alf')
+img = qrcode.make('https://youtu.be/d37Izzyll8E')
 type(img)  # qrcode.image.pil.PilImage
-img.save("qr1.png")
+img.save("envases.png")
