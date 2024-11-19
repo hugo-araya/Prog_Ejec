@@ -1,4 +1,4 @@
 import qrcode
-img = qrcode.make('https://youtu.be/d37Izzyll8E')
+img = qrcode.make('https://github.com/hugo-araya')
 type(img)  # qrcode.image.pil.PilImage
-img.save("envases.png")
+img.save("githubharaya.png")
